@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task04_Train_The_Trainers/1.0.0": {
+        "runtime": {
+          "Task04_Train_The_Trainers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task04_Train_The_Trainers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
