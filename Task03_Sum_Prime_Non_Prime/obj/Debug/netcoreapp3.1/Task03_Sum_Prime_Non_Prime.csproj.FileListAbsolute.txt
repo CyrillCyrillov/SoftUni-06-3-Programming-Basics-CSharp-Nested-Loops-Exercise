@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\bin\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.exe
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\bin\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.deps.json
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\bin\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\bin\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\bin\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.dll
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\bin\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.pdb
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\obj\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\obj\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\obj\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\obj\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\obj\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.dll
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\obj\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.pdb
+C:\Users\Kiril\source\repos\Exercise07\Task03_Sum_Prime_Non_Prime\obj\Debug\netcoreapp3.1\Task03_Sum_Prime_Non_Prime.genruntimeconfig.cache
